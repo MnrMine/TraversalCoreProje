@@ -1,5 +1,5 @@
 # TraversalCoreProje
-Bu proje Murat Yücedağ tarafından Youtube de yayınlanan Traversal Rezervasyon Mini Core Projesi uygulamasını içermektedir.
+Bu proje Murat Yücedağ tarafından Youtube de yayınlanan Traversal Rezervasyon Mini Core Projesi eğitimi uygulamasını içermektedir.
 # Projeye Genel Bakış
 Proje gelişmiş ve dinamik bir tatil rezervasyonu uygulaması sunmaktadır.Projede kullanıcılar site üzerinden gezi turları hakkında bilgi edinebilir,tur detaylarını öğrenebilir ve belirli bir tarih aralığında rezervasyon yapabilirler.Kullanıcıların tatil rezervasyon işlemlerini  kolayca yönetmelerine olanak tanımaktadır. Ayrıca, site üzerinden kullanıcılar tur programları, fiyatlar ve özel kampanyalar hakkında bilgi edinebilirler.
 # Kullanılan Teknolojiler ve Uygulamalar
