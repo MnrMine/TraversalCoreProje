@@ -23,7 +23,6 @@ Proje gelişmiş ve dinamik bir tatil rezervasyonu uygulaması sunmaktadır.Proj
 - Eklenen grafiklerle istatistikleri kolay anlama
 - Öne çıkan veriler ile bilgilere kolay ulaşım sağlama
 - Dil Desteği ile farklı dil seçenekleri kullanabilme
-- Hava durumu bilgisi ile sıcaklık verisine kolay erişilebilme
 - Raporlama ile pdf ve excel formatında rapor alma
 - Arama çubuğu ile filtreleme özelliği
 - SignalR teknolojisi kullanılarak gerçek zamanlı bildirimlere ulaşabilme
